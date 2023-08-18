@@ -1,0 +1,36 @@
+application_name,document_type,url,text_format
+netflix,privacy policy,https://help.netflix.com/en/legal/privacy,h_sections
+netflix,terms and conditions,https://help.netflix.com/en/legal/termsofuse,num_sections_2
+airbnb,privacy policy,https://www.airbnb.com.au/help/article/3175,num_sections_2
+airbnb,terms and conditions,https://www.airbnb.com.au/help/article/2908,num_sections_2
+whatsapp,privacy policy,https://www.whatsapp.com/legal/privacy-policy,h_sections
+whatsapp,terms and conditions,https://www.whatsapp.com/legal/terms-of-service,h_sections
+temu,privacy policy,https://www.temu.com/au/privacy-and-cookie-policy.html,h_sections
+temu,terms and conditions,https://www.temu.com/au/terms-of-use.html,num_sections_2
+7plus,terms and conditions,https://support.7plus.com.au/hc/en-au/articles/360060194292-Terms-and-Conditions,num_sections_1
+7plus,privacy policy,https://www.sevenwestmedia.com.au/privacy-policies/privacy,num_sections_1
+shein,terms and conditions,https://sheingroup.com/terms-conditions/,num_sections_2
+shein,privacy policy,https://sheingroup.com/privacy-policy/,num_sections_1
+tiktok,privacy policy,https://www.tiktok.com/legal/page/row/privacy-policy/en,h_sections
+tiktok,terms and conditions,https://www.tiktok.com/legal/page/row/terms-of-service/en,h_sections
+threema,privacy policy,https://threema.ch/privacy_policy/,h_sections
+threema,terms and conditions,https://threema.ch/tos/?lang=en,h_sections
+monashFODMAP,terms and conditions,https://www.monashfodmap.com/terms-and-conditions/,num_sections_1
+candycrush,terms and conditions,https://www.king.com/termsAndConditions,num_sections_2
+tinder,privacy policy,https://policies.tinder.com/privacy/intl/en/,h_sections
+tinder,terms and conditions,https://policies.tinder.com/terms/intl/en/,h_sections
+bumble,terms and conditions,https://bumble.com/en-us/terms,h_sections
+bumble,privacy policy,https://bumble.com/en-us/privacy,h_sections
+telegram,privacy policy,https://telegram.org/privacy?setln=fa,"h_sections, num_sections_2"
+google apps,privacy policy,https://policies.google.com/privacy,h_sections
+google apps,terms and conditions,https://policies.google.com/terms?hl=en-US,h_sections
+canvas student,privacy policy,https://www.instructure.com/policies/privacy,h_sections
+afterpay,privacy policy,https://www.afterpay.com/en-AU/privacy-policy,"h_sections, num_sections_1"
+australia post,privacy policy,https://auspost.com.au/privacy,h_sections
+zoom,terms and conditions,https://explore.zoom.us/en/terms/,num_sections_2
+zoom,privacy policy,https://explore.zoom.us/en/privacy/,h_sections
+didi,terms and conditions,https://web.didiglobal.com/au/legal/passenger-agreement/,num_sections_2
+didi,privacy policy,https://web.didiglobal.com/au/legal/privacy-policy/,num_sections_1
+linkedin,terms and conditions,https://www.linkedin.com/legal/user-agreement,num_sections_2
+instagram,privacy policy,https://help.instagram.com/155833707900388,h_sections
+instagram,terms and conditions,https://help.instagram.com/155833707900388,h_sections
